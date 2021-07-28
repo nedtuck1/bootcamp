@@ -64,10 +64,10 @@ log(horizontalBorder)
 pub fun main() {
   let pixelsX = [
 
-" *   * "
-"  * *  "
-"   *   "
-"  * *  "
+" *   * ",
+"  * *  ",
+"   *   ",
+"  * *  ",
 " *   * "
 
 
